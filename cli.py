@@ -30,6 +30,8 @@ def main():
         print("MUSTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARD")
     elif slang == "67":
         print("67 TUFF")
+    elif slang == "tuff"
+        print("something so cool wow so cool")
     else:
         print(f"bruh what does {slang} mean wtf")
     
