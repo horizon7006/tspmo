@@ -1,0 +1,13 @@
+[project]
+name = "tspmo"
+version = "0.1.0"
+description = "lmao just a goofy cli tool that is just ts pmo icl or smth"
+authors = [
+    { name = "Horizon7006" }
+
+    ]
+license = { text = "MIT" }
+dependencies = []
+
+[project.scripts]
+tspmo = "cli:main"
